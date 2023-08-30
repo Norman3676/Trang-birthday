@@ -1,2 +1,2 @@
-# Trang-birthday
-Trang
+# Birthday Card 🎂 
+Responsive Birthday Card - Made with Jquery and CSS
